@@ -20,7 +20,6 @@ A full-stack e-commerce platform built with **NestJS microservices architecture*
 - [Microservices](#microservices)
 - [Testing](#testing)
 
-
 ---
 
 ## 🎯 Overview
