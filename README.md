@@ -19,9 +19,7 @@ A full-stack e-commerce platform built with **NestJS microservices architecture*
 - [Environment Variables](#environment-variables)
 - [Microservices](#microservices)
 - [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
